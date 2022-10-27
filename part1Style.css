@@ -1,0 +1,28 @@
+.caption {
+	font-family: 'PT Serif Caption', serif;
+	font-size: 10px;
+	font-weight: normal;
+}
+
+body{
+	background-color: #f3eecb;
+}
+
+p{
+	font-family: 'PT Serif Caption', serif;
+	font-weight: normal;
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-family: 'PT Serif Caption', serif;
+	font-weight: bold;
+}
+
+img{
+	border-radius: 20%;
+}
+
+
+.smcap{
+	background-color: #f3eecb;
+}
