@@ -30,9 +30,9 @@ Books Used:
 
 Style Changed:
 
--> Changed the text style of the books
--> edited the images to have rounded edge
--> added a yellowish background to make it look like an old book
+* Changed the text style of the books
+* edited the images to have rounded edge
+* added a yellowish background to make it look like an old book
 
 
 
