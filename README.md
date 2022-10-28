@@ -24,8 +24,15 @@ Code is licensed under the Apache 2.0 license.
 Part 1
 =================
 Books Used:
+1) https://www.gutenberg.org/ebooks/394
+2) https://www.gutenberg.org/ebooks/1342
+3) https://www.gutenberg.org/ebooks/37106
 
 Style Changed:
+
+-> Changed the text style of the books
+-> edited the images to have rounded edge
+-> added a yellowish background to make it look like an old book
 
 
 
